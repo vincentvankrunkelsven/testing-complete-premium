@@ -155,6 +155,3 @@ chapters:
       - type: NormalExercise
         title: Exercise 11
         content: Content
-      - type: MultipleChoiceExercise
-        title: Exercise 12
-        content: Content

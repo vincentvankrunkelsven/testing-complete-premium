@@ -2,13 +2,13 @@
 title        : Chapter 4
 description  : Description 
 
---- type:VideoExercise lang:r xp: skills: key:277e3e0ba5
+--- type:VideoExercise lang:r xp: skills: key:fd24ffb71f
 ## Exercise 1 
 Content
 
 *** =video_link
 
---- type:NormalExercise lang:r xp: skills: key:3de617c018
+--- type:NormalExercise lang:r xp: skills: key:79d7ae3957
 ## Exercise 2 
 Content
 
@@ -36,7 +36,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp: skills: key:ea5c793ee5
+--- type:NormalExercise lang:r xp: skills: key:b41e46359d
 ## Exercise 3 
 Content
 
@@ -64,7 +64,7 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp: skills: key:ee3151d88d
+--- type:MultipleChoiceExercise lang:r xp: skills: key:893731cfa5
 ## Exercise 4 
 Content
 
@@ -82,13 +82,13 @@ Content
 
 ```
 
---- type:VideoExercise lang:r xp: skills: key:12b162ffad
+--- type:VideoExercise lang:r xp: skills: key:38510e6112
 ## Exercise 5 
 Content
 
 *** =video_link
 
---- type:NormalExercise lang:r xp: skills: key:7bd1f04452
+--- type:NormalExercise lang:r xp: skills: key:ad084c9fcd
 ## Exercise 6 
 Content
 
@@ -116,7 +116,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp: skills: key:c325eb3e6a
+--- type:NormalExercise lang:r xp: skills: key:5bb069bb0c
 ## Exercise 7 
 Content
 
@@ -144,7 +144,7 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp: skills: key:856e778ae3
+--- type:MultipleChoiceExercise lang:r xp: skills: key:62fda1480b
 ## Exercise 8 
 Content
 
@@ -162,13 +162,13 @@ Content
 
 ```
 
---- type:VideoExercise lang:r xp: skills: key:b7728920bd
+--- type:VideoExercise lang:r xp: skills: key:78b1f6f682
 ## Exercise 9 
 Content
 
 *** =video_link
 
---- type:NormalExercise lang:r xp: skills: key:56349449db
+--- type:NormalExercise lang:r xp: skills: key:782559a50c
 ## Exercise 10 
 Content
 
@@ -196,7 +196,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp: skills: key:5f8edd5ba1
+--- type:NormalExercise lang:r xp: skills: key:ba3e434e7a
 ## Exercise 11 
 Content
 
@@ -215,24 +215,6 @@ Content
 ```
 
 *** =solution
-```{r}
-
-```
-
-*** =sct
-```{r}
-
-```
-
---- type:MultipleChoiceExercise lang:r xp: skills: key:d8c6c9360e
-## Exercise 12 
-Content
-
-*** =instructions
-
-*** =hint
-
-*** =pre_exercise_code
 ```{r}
 
 ```
