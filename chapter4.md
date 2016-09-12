@@ -2,13 +2,13 @@
 title        : Chapter 4
 description  : Description 
 
---- type:VideoExercise lang:r xp: skills: key:fd24ffb71f
+--- type:VideoExercise lang:r xp: skills: key:60df13ac9d
 ## Exercise 1 
 Content
 
 *** =video_link
 
---- type:NormalExercise lang:r xp: skills: key:79d7ae3957
+--- type:NormalExercise lang:r xp: skills: key:0982def30f
 ## Exercise 2 
 Content
 
@@ -36,7 +36,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp: skills: key:b41e46359d
+--- type:NormalExercise lang:r xp: skills: key:2e60a32ecd
 ## Exercise 3 
 Content
 
@@ -64,7 +64,7 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp: skills: key:893731cfa5
+--- type:MultipleChoiceExercise lang:r xp: skills: key:8b7f50dacb
 ## Exercise 4 
 Content
 
@@ -82,13 +82,13 @@ Content
 
 ```
 
---- type:VideoExercise lang:r xp: skills: key:38510e6112
+--- type:VideoExercise lang:r xp: skills: key:99ab87dfbf
 ## Exercise 5 
 Content
 
 *** =video_link
 
---- type:NormalExercise lang:r xp: skills: key:ad084c9fcd
+--- type:NormalExercise lang:r xp: skills: key:c8272a1187
 ## Exercise 6 
 Content
 
@@ -116,7 +116,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp: skills: key:5bb069bb0c
+--- type:NormalExercise lang:r xp: skills: key:b3e9e1d6ea
 ## Exercise 7 
 Content
 
@@ -144,7 +144,7 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp: skills: key:62fda1480b
+--- type:MultipleChoiceExercise lang:r xp: skills: key:92a16e0f2a
 ## Exercise 8 
 Content
 
@@ -162,13 +162,13 @@ Content
 
 ```
 
---- type:VideoExercise lang:r xp: skills: key:78b1f6f682
+--- type:VideoExercise lang:r xp: skills: key:22e651d9a4
 ## Exercise 9 
 Content
 
 *** =video_link
 
---- type:NormalExercise lang:r xp: skills: key:782559a50c
+--- type:NormalExercise lang:r xp: skills: key:1385355525
 ## Exercise 10 
 Content
 
@@ -196,8 +196,8 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp: skills: key:ba3e434e7a
-## Exercise 11 
+--- type:NormalExercise lang:r xp: skills: key:12e82bc01f
+## Last exercise 
 Content
 
 *** =instructions
