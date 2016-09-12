@@ -2,13 +2,13 @@
 title        : Chapter 3
 description  : Description 
 
---- type:VideoExercise lang:r xp: skills: key:67d13080b1
+--- type:VideoExercise lang:r xp: skills: key:6facef8ab8
 ## Exercise 1 
 Content
 
 *** =video_link
 
---- type:NormalExercise lang:r xp: skills: key:ee2a3acd2f
+--- type:NormalExercise lang:r xp: skills: key:008b3a2304
 ## Exercise 2 
 Content
 
@@ -36,7 +36,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp: skills: key:078a40d5c8
+--- type:NormalExercise lang:r xp: skills: key:b5a91e9c4c
 ## Exercise 3 
 Content
 
@@ -64,7 +64,7 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp: skills: key:29af596ca2
+--- type:MultipleChoiceExercise lang:r xp: skills: key:0d9af2a93b
 ## Exercise 4 
 Content
 
@@ -82,13 +82,13 @@ Content
 
 ```
 
---- type:VideoExercise lang:r xp: skills: key:1c1729a7dd
+--- type:VideoExercise lang:r xp: skills: key:94b9cb92c2
 ## Exercise 5 
 Content
 
 *** =video_link
 
---- type:NormalExercise lang:r xp: skills: key:88321f921a
+--- type:NormalExercise lang:r xp: skills: key:6f7f1b7577
 ## Exercise 6 
 Content
 
@@ -116,7 +116,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp: skills: key:ea7b4cdd4f
+--- type:NormalExercise lang:r xp: skills: key:391fa8e654
 ## Exercise 7 
 Content
 
@@ -144,7 +144,7 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp: skills: key:82dcd69020
+--- type:MultipleChoiceExercise lang:r xp: skills: key:760fb60701
 ## Exercise 8 
 Content
 
@@ -162,13 +162,13 @@ Content
 
 ```
 
---- type:VideoExercise lang:r xp: skills: key:767cb0988b
+--- type:VideoExercise lang:r xp: skills: key:2f10f7e465
 ## Exercise 9 
 Content
 
 *** =video_link
 
---- type:NormalExercise lang:r xp: skills: key:40173ffce2
+--- type:NormalExercise lang:r xp: skills: key:953567c505
 ## Exercise 10 
 Content
 
@@ -196,7 +196,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp: skills: key:9a478309a3
+--- type:NormalExercise lang:r xp: skills: key:7dc3a33e6c
 ## Exercise 11 
 Content
 
@@ -224,7 +224,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp: skills: key:a7e1a3990f
+--- type:NormalExercise lang:r xp: skills: key:bd62cb8109
 ## Exercise 12 
 Content
 

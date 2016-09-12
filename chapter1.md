@@ -2,13 +2,13 @@
 title        : Chapter 1
 description  : This is a template chapter. 
 
---- type:VideoExercise lang:r xp: skills: key:2f98c91b12
+--- type:VideoExercise lang:r xp: skills: key:5a14fee4ec
 ## Exercise 1 
 This is a template exercise.
 
 *** =video_link
 
---- type:NormalExercise lang:r xp: skills: key:e5ebae0a43
+--- type:NormalExercise lang:r xp: skills: key:e200701474
 ## Exercise 2 
 Content
 
@@ -36,7 +36,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp: skills: key:23b981eb30
+--- type:NormalExercise lang:r xp: skills: key:a10c035f7e
 ## Exercise 3 
 Content
 
@@ -64,7 +64,7 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp: skills: key:eb21b2f972
+--- type:MultipleChoiceExercise lang:r xp: skills: key:aa8a4ee898
 ## Exercise 4 
 Content
 
@@ -82,13 +82,13 @@ Content
 
 ```
 
---- type:VideoExercise lang:r xp: skills: key:8f877fa95c
+--- type:VideoExercise lang:r xp: skills: key:59e01e1d9b
 ## Exercise 5 
 Content
 
 *** =video_link
 
---- type:NormalExercise lang:r xp: skills: key:5a7a1965dc
+--- type:NormalExercise lang:r xp: skills: key:a6779a8962
 ## Exercise 6 
 Content
 
@@ -116,7 +116,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp: skills: key:ed5b2ce467
+--- type:NormalExercise lang:r xp: skills: key:5bb098f6a3
 ## Exercise 7 
 Content
 
@@ -144,8 +144,8 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp: skills: key:4f08b0eb7b
-## Exercise 8 
+--- type:NormalExercise lang:r xp: skills: key:7cbda30293
+## Exercise  8 
 Content
 
 *** =instructions
@@ -157,18 +157,50 @@ Content
 
 ```
 
+*** =sample_code
+```{r}
+
+```
+
+*** =solution
+```{r}
+
+```
+
 *** =sct
 ```{r}
 
 ```
 
---- type:VideoExercise lang:r xp: skills: key:6aa7452045
+--- type:NormalExercise lang:r xp: skills: key:7b5c895775
 ## Exercise 9 
 Content
 
-*** =video_link
+*** =instructions
 
---- type:NormalExercise lang:r xp: skills: key:ba59afa5d7
+*** =hint
+
+*** =pre_exercise_code
+```{r}
+
+```
+
+*** =sample_code
+```{r}
+
+```
+
+*** =solution
+```{r}
+
+```
+
+*** =sct
+```{r}
+
+```
+
+--- type:NormalExercise lang:r xp: skills: key:2049b61a1c
 ## Exercise 10 
 Content
 
@@ -187,52 +219,6 @@ Content
 ```
 
 *** =solution
-```{r}
-
-```
-
-*** =sct
-```{r}
-
-```
-
---- type:NormalExercise lang:r xp: skills: key:00442cd9fe
-## Exercise 11 
-Content
-
-*** =instructions
-
-*** =hint
-
-*** =pre_exercise_code
-```{r}
-
-```
-
-*** =sample_code
-```{r}
-
-```
-
-*** =solution
-```{r}
-
-```
-
-*** =sct
-```{r}
-
-```
-
---- type:MultipleChoiceExercise lang:r xp: skills: key:8b0bf163fb
-## Exercise 12 
-Content
-
-*** =instructions
-
-*** =hint
-
-*** =pre_exercise_code
 ```{r}
 
 ```

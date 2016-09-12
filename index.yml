@@ -26,20 +26,14 @@ chapters:
       - type: NormalExercise
         title: Exercise 7
         content: Content
-      - type: MultipleChoiceExercise
-        title: Exercise 8
+      - type: NormalExercise
+        title: Exercise  8
         content: Content
-      - type: VideoExercise
+      - type: NormalExercise
         title: Exercise 9
         content: Content
       - type: NormalExercise
         title: Exercise 10
-        content: Content
-      - type: NormalExercise
-        title: Exercise 11
-        content: Content
-      - type: MultipleChoiceExercise
-        title: Exercise 12
         content: Content
   - chapter_title: Chapter 2
     chapter_description: Description
@@ -73,12 +67,6 @@ chapters:
         content: Content
       - type: NormalExercise
         title: Exercise 10
-        content: Content
-      - type: NormalExercise
-        title: Exercise 11
-        content: Content
-      - type: MultipleChoiceExercise
-        title: Exercise 12
         content: Content
   - chapter_title: Chapter 3
     chapter_description: Description
