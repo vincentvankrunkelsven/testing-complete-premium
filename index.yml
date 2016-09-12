@@ -155,3 +155,6 @@ chapters:
       - type: NormalExercise
         title: Exercise 11
         content: Content
+      - type: MultipleChoiceExercise
+        title: Really last exercise
+        content: Content
