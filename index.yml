@@ -116,7 +116,7 @@ chapters:
       - type: NormalExercise
         title: Exercise 11
         content: Content
-      - type: MultipleChoiceExercise
+      - type: NormalExercise
         title: Exercise 12
         content: Content
   - chapter_title: Chapter 4
@@ -153,5 +153,5 @@ chapters:
         title: Exercise 10
         content: Content
       - type: NormalExercise
-        title: Last exercise
+        title: Exercise 11
         content: Content
