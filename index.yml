@@ -43,7 +43,7 @@ chapters:
         course_description: ''
       - type: NormalExercise
         title: Exercise 10
-        content: Content
+        content: Contentaaaaa
   - chapter_title: Chapter 2
     chapter_description: Description
     exercises:
