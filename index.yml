@@ -3,35 +3,44 @@ course_description: Course description
 programming_language: r
 chapters:
   - chapter_title: Chapter 1
-    chapter_description: This is a template chapter.
+    chapter_description: 'This is a template chapter: testing this'
     exercises:
       - type: VideoExercise
         title: Exercise 1
         content: This is a template exercise.
+        course_description: ''
       - type: NormalExercise
         title: Exercise 2
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 3
         content: Content
+        course_description: ''
       - type: MultipleChoiceExercise
         title: Exercise 4
         content: Content
+        course_description: ''
       - type: VideoExercise
         title: Exercise 5
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 6
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 7
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise  8
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 9
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 10
         content: Content
@@ -41,108 +50,142 @@ chapters:
       - type: VideoExercise
         title: Exercise 1
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 2
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 3
         content: Content
+        course_description: ''
       - type: MultipleChoiceExercise
         title: Exercise 4
         content: Content
+        course_description: ''
       - type: VideoExercise
         title: Exercise 5
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 6
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 7
         content: Content
+        course_description: ''
       - type: MultipleChoiceExercise
         title: Exercise 8
         content: Content
+        course_description: ''
       - type: VideoExercise
         title: Exercise 9
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 10
         content: Content
+        course_description: ''
   - chapter_title: Chapter 3
     chapter_description: Description
     exercises:
       - type: VideoExercise
         title: Exercise 1
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 2
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 3
         content: Content
+        course_description: ''
       - type: MultipleChoiceExercise
         title: Exercise 4
         content: Content
+        course_description: ''
       - type: VideoExercise
         title: Exercise 5
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 6
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 7
         content: Content
+        course_description: ''
       - type: MultipleChoiceExercise
         title: Exercise 8
         content: Content
+        course_description: ''
       - type: VideoExercise
         title: Exercise 9
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 10
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 11
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 12
         content: Content
+        course_description: ''
   - chapter_title: Chapter 4
     chapter_description: Description
     exercises:
       - type: VideoExercise
         title: Exercise 1
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 2
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 3
         content: Content
+        course_description: ''
       - type: MultipleChoiceExercise
         title: Exercise 4
         content: Content
+        course_description: ''
       - type: VideoExercise
         title: Exercise 5
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 6
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 7
         content: Content
+        course_description: ''
       - type: MultipleChoiceExercise
         title: Exercise 8
         content: Content
+        course_description: ''
       - type: VideoExercise
         title: Exercise 9
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 10
         content: Content
+        course_description: ''
       - type: NormalExercise
         title: Exercise 11
         content: Content
+        course_description: ''
       - type: MultipleChoiceExercise
         title: Really last exercise
         content: Content
+        course_description: ''
