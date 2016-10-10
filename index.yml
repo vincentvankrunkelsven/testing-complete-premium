@@ -44,6 +44,7 @@ chapters:
       - type: NormalExercise
         title: Exercise 10
         content: Content
+        course_description: ''
   - chapter_title: Chapter 2
     chapter_description: Description
     exercises:
