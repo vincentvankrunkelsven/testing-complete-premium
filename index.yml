@@ -1,5 +1,5 @@
 course_title: Course Title
-course_description: Course description test
+course_description: Course description testaa
 programming_language: r
 chapters:
   - chapter_title: Chapter 1
@@ -8,7 +8,6 @@ chapters:
       - type: VideoExercise
         title: Exercise 1
         content: This is a template exercise.
-        course_description: ''
       - type: NormalExercise
         title: Exercise 2
         content: Content
