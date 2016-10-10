@@ -2,13 +2,13 @@
 title: Chapter 4
 description: Description
 
---- type:VideoExercise lang:r xp: skills: key:5c251b1bb8
+--- type:VideoExercise lang:r xp: skills: key:f21957a29f
 ## Exercise 1 
 Content
 
 *** =video_link
 
---- type:NormalExercise lang:r xp: skills: key:eafdeeebab
+--- type:NormalExercise lang:r xp: skills: key:6318807d4d
 ## Exercise 2 
 Content
 
@@ -36,7 +36,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp: skills: key:7556d6ebe6
+--- type:NormalExercise lang:r xp: skills: key:6f55c4e1c2
 ## Exercise 3 
 Content
 
@@ -64,7 +64,7 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp: skills: key:5315ccc823
+--- type:MultipleChoiceExercise lang:r xp: skills: key:fcedbda35f
 ## Exercise 4 
 Content
 
@@ -82,13 +82,13 @@ Content
 
 ```
 
---- type:VideoExercise lang:r xp: skills: key:3ad5653883
+--- type:VideoExercise lang:r xp: skills: key:57ba2cbf03
 ## Exercise 5 
 Content
 
 *** =video_link
 
---- type:NormalExercise lang:r xp: skills: key:7dba6d09c8
+--- type:NormalExercise lang:r xp: skills: key:0a3cc3d92e
 ## Exercise 6 
 Content
 
@@ -116,7 +116,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp: skills: key:d47b757e86
+--- type:NormalExercise lang:r xp: skills: key:db742d6178
 ## Exercise 7 
 Content
 
@@ -144,7 +144,7 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp: skills: key:c63fb25fc3
+--- type:MultipleChoiceExercise lang:r xp: skills: key:ab2c67b7df
 ## Exercise 8 
 Content
 
@@ -162,13 +162,13 @@ Content
 
 ```
 
---- type:VideoExercise lang:r xp: skills: key:9ba7d4d460
+--- type:VideoExercise lang:r xp: skills: key:d76362b843
 ## Exercise 9 
 Content
 
 *** =video_link
 
---- type:NormalExercise lang:r xp: skills: key:ba6e45d2ef
+--- type:NormalExercise lang:r xp: skills: key:4435fca0d8
 ## Exercise 10 
 Content
 
@@ -196,7 +196,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp: skills: key:caaf7c6985
+--- type:NormalExercise lang:r xp: skills: key:d0b68cb083
 ## Exercise 11 
 Content
 
@@ -224,7 +224,7 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp: skills: key:59aed167e3
+--- type:MultipleChoiceExercise lang:r xp: skills: key:54f916c58b
 ## Really last exercise 
 Content
 
