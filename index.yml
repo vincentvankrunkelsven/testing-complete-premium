@@ -89,7 +89,7 @@ chapters:
         content: Content
         course_description: ''
   - chapter_title: Chapter 3
-    chapter_description: Description
+    chapter_description: 'Description this is: --- "a cool chapter"???'''
     exercises:
       - type: VideoExercise
         title: Exercise 1
