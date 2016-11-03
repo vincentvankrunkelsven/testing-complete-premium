@@ -1,5 +1,5 @@
 ---
-title: Chapter 3
+title: Third chapter
 description: 'Description this is: --- "a cool chapter"???'''
 
 --- type:VideoExercise lang:r xp:50 skills:1 key:5f175c89af
