@@ -92,7 +92,7 @@ chapters:
     chapter_description: 'Description this is: --- "a cool chapter"???'''
     exercises:
       - type: VideoExercise
-        title: Exercise 1
+        title: Exercise 2
         content: Content
       - type: NormalExercise
         title: Exercise 2
