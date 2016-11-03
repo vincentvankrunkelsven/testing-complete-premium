@@ -2,13 +2,13 @@
 title: Chapter 4
 description: Description
 
---- type:VideoExercise lang:r xp:50 skills:1 key:04d1a3c613
+--- type:VideoExercise lang:r xp:50 skills:1 key:370a8f3f0a
 ## Exercise 1 
 Content
 
 *** =video_link
 
---- type:NormalExercise lang:r xp:100 skills:1 key:5759bb03d2
+--- type:NormalExercise lang:r xp:100 skills:1 key:35190ed646
 ## Exercise 2 
 Content
 
@@ -36,7 +36,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:de9bc41556
+--- type:NormalExercise lang:r xp:100 skills:1 key:61a2145961
 ## Exercise 3 
 Content
 
@@ -64,7 +64,7 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:0afe4e6d90
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:66fca96a02
 ## Exercise 4 
 Content
 
@@ -82,13 +82,13 @@ Content
 
 ```
 
---- type:VideoExercise lang:r xp:50 skills:1 key:fd60835ee0
+--- type:VideoExercise lang:r xp:50 skills:1 key:5600c0608a
 ## Exercise 5 
 Content
 
 *** =video_link
 
---- type:NormalExercise lang:r xp:100 skills:1 key:6ce1bdf0ee
+--- type:NormalExercise lang:r xp:100 skills:1 key:254fbcc8c9
 ## Exercise 6 
 Content
 
@@ -116,7 +116,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:90c9b4e83c
+--- type:NormalExercise lang:r xp:100 skills:1 key:1b90c01830
 ## Exercise 7 
 Content
 
@@ -144,7 +144,7 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:141eb67b66
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:f7751810aa
 ## Exercise 8 
 Content
 
@@ -162,13 +162,13 @@ Content
 
 ```
 
---- type:VideoExercise lang:r xp:50 skills:1 key:03bdde28c5
+--- type:VideoExercise lang:r xp:50 skills:1 key:47bb74e945
 ## Exercise 9 
 Content
 
 *** =video_link
 
---- type:NormalExercise lang:r xp:100 skills:1 key:53db1ca77e
+--- type:NormalExercise lang:r xp:100 skills:1 key:ccb42715d2
 ## Exercise 10 
 Content
 
@@ -196,7 +196,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:480b7b363a
+--- type:NormalExercise lang:r xp:100 skills:1 key:b4bc5ab3e5
 ## Exercise 11 
 Content
 
@@ -224,7 +224,7 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:9f65674a1c
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:fb1c08f153
 ## Really last exercise 
 Content
 

@@ -2,13 +2,13 @@
 title: Chapter 1
 description: 'This is a template chapter: testing this'
 
---- type:VideoExercise lang:r xp:50 skills:1 key:3df4c662e0
+--- type:VideoExercise lang:r xp:50 skills:1 key:5ce6728828
 ## Exercise 1 
-This is a template exercise.
+Cool template exercise
 
 *** =video_link
 
---- type:NormalExercise lang:r xp:100 skills:1 key:680301d256
+--- type:NormalExercise lang:r xp:100 skills:1 key:a9b76f7804
 ## Exercise 2 
 Content
 
@@ -36,7 +36,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:35ce74f5ad
+--- type:NormalExercise lang:r xp:100 skills:1 key:5b18577655
 ## Exercise 3 
 Content
 
@@ -64,7 +64,7 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:120327555d
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:2300fa7810
 ## Exercise 4 
 Content
 
@@ -82,13 +82,13 @@ Content
 
 ```
 
---- type:VideoExercise lang:r xp:50 skills:1 key:ba12c3a5f1
+--- type:VideoExercise lang:r xp:50 skills:1 key:940dc80255
 ## Exercise 5 
 Content
 
 *** =video_link
 
---- type:NormalExercise lang:r xp:100 skills:1 key:baab71eccd
+--- type:NormalExercise lang:r xp:100 skills:1 key:540176f879
 ## Exercise 6 
 Content
 
@@ -116,7 +116,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:6ffce53320
+--- type:NormalExercise lang:r xp:100 skills:1 key:f8a3f226a9
 ## Exercise 7 
 Content
 
@@ -144,7 +144,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:83e852f577
+--- type:NormalExercise lang:r xp:100 skills:1 key:a500335d35
 ## Exercise  8 
 Content
 
@@ -172,7 +172,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:177482026f
+--- type:NormalExercise lang:r xp:100 skills:1 key:699d5d6208
 ## Exercise 9 
 Content
 
@@ -200,7 +200,7 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:a0365f9ba4
+--- type:NormalExercise lang:r xp:100 skills:1 key:6b32af9697
 ## Exercise 10 
 Contentaaaaa
 
