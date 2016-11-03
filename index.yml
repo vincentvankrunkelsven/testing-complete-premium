@@ -7,7 +7,7 @@ chapters:
     exercises:
       - type: VideoExercise
         title: Exercise 1
-        content: Cool template exercise
+        content: Cool template exercise 2
       - type: NormalExercise
         title: Exercise 2
         content: Content
