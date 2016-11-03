@@ -94,7 +94,6 @@ chapters:
       - type: VideoExercise
         title: Exercise 1
         content: Content
-        course_description: ''
       - type: NormalExercise
         title: Exercise 2
         content: Content
