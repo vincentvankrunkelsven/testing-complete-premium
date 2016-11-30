@@ -1,3 +1,8 @@
 title: Course Titlee
 description: Testing description 6
 programming_language: r
+instructors:
+ - vincent@datacamp.com
+ 
+collaborators: 
+ - filip.schouwenaars@gmail.com
