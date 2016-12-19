@@ -2,14 +2,20 @@
 title: Chapter 3
 description: 'Description this is: --- "a cool chapter"???'''
 
---- type:VideoExercise lang:r xp:50 skills:1 key:94bb4e1c9f
-## Exercise 1 
+--- type:VideoExercise lang:r xp:50 skills:1 key:095508d275
+## Exercise 1
+
 Content
 
 *** =video_link
+//player.vimeo.com/video/154783078
 
---- type:NormalExercise lang:r xp:100 skills:1 key:665c5dd305
-## Exercise 2 
+*** =video_hls
+//videos.datacamp.com/transcoded/000_placeholders/v1/hls-temp.master.m3u8
+
+--- type:NormalExercise lang:r xp:100 skills:1 key:5d1bf8bfe2
+## Exercise 2
+
 Content
 
 *** =instructions
@@ -36,8 +42,9 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:86127efebf
-## Exercise 3 
+--- type:NormalExercise lang:r xp:100 skills:1 key:1352d81b25
+## Exercise 3
+
 Content
 
 *** =instructions
@@ -64,8 +71,9 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:f6139e395f
-## Exercise 4 
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:2fb3e77a4b
+## Exercise 4
+
 Content
 
 *** =instructions
@@ -82,14 +90,20 @@ Content
 
 ```
 
---- type:VideoExercise lang:r xp:50 skills:1 key:466a60a2c9
-## Exercise 5 
+--- type:VideoExercise lang:r xp:50 skills:1 key:2663d313ae
+## Exercise 5
+
 Content
 
 *** =video_link
+//player.vimeo.com/video/154783078
 
---- type:NormalExercise lang:r xp:100 skills:1 key:752c87a576
-## Exercise 6 
+*** =video_hls
+//videos.datacamp.com/transcoded/000_placeholders/v1/hls-temp.master.m3u8
+
+--- type:NormalExercise lang:r xp:100 skills:1 key:d83ab49e7b
+## Exercise 6
+
 Content
 
 *** =instructions
@@ -116,8 +130,9 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:c7f9e615b7
-## Exercise 7 
+--- type:NormalExercise lang:r xp:100 skills:1 key:ebc80e09d0
+## Exercise 7
+
 Content
 
 *** =instructions
@@ -144,8 +159,9 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:8bae9e1db0
-## Exercise 8 
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:aaed0d738f
+## Exercise 8
+
 Content
 
 *** =instructions
@@ -162,14 +178,20 @@ Content
 
 ```
 
---- type:VideoExercise lang:r xp:50 skills:1 key:34364b04a6
-## Exercise 9 
+--- type:VideoExercise lang:r xp:50 skills:1 key:ed7c36ac13
+## Exercise 9
+
 Content
 
 *** =video_link
+//player.vimeo.com/video/154783078
 
---- type:NormalExercise lang:r xp:100 skills:1 key:36a52ea876
-## Exercise 10 
+*** =video_hls
+//videos.datacamp.com/transcoded/000_placeholders/v1/hls-temp.master.m3u8
+
+--- type:NormalExercise lang:r xp:100 skills:1 key:07b056ffa3
+## Exercise 10
+
 Content
 
 *** =instructions
@@ -196,8 +218,9 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:05d2b4d019
-## Exercise 11 
+--- type:NormalExercise lang:r xp:100 skills:1 key:f0843845f0
+## Exercise 11
+
 Content
 
 *** =instructions
@@ -224,8 +247,9 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:1863415b67
-## Exercise 12 
+--- type:NormalExercise lang:r xp:100 skills:1 key:248ebfcd5c
+## Exercise 12
+
 Content
 
 *** =instructions

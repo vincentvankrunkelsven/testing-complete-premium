@@ -2,14 +2,20 @@
 title: Chapter 4
 description: Description
 
---- type:VideoExercise lang:r xp:50 skills:1 key:e4c6d532e8
-## Exercise 1 
+--- type:VideoExercise lang:r xp:50 skills:1 key:206f37d398
+## Exercise 1
+
 Content
 
 *** =video_link
+//player.vimeo.com/video/154783078
 
---- type:NormalExercise lang:r xp:100 skills:1 key:e0b861f88d
-## Exercise 2 
+*** =video_hls
+//videos.datacamp.com/transcoded/000_placeholders/v1/hls-temp.master.m3u8
+
+--- type:NormalExercise lang:r xp:100 skills:1 key:d7419a4b53
+## Exercise 2
+
 Content
 
 *** =instructions
@@ -36,8 +42,9 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:cddb2ff571
-## Exercise 3 
+--- type:NormalExercise lang:r xp:100 skills:1 key:11f34339e4
+## Exercise 3
+
 Content
 
 *** =instructions
@@ -64,8 +71,9 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:2124c09649
-## Exercise 4 
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:173981a975
+## Exercise 4
+
 Content
 
 *** =instructions
@@ -82,14 +90,20 @@ Content
 
 ```
 
---- type:VideoExercise lang:r xp:50 skills:1 key:94c2e2665b
-## Exercise 5 
+--- type:VideoExercise lang:r xp:50 skills:1 key:39b53f7995
+## Exercise 5
+
 Content
 
 *** =video_link
+//player.vimeo.com/video/154783078
 
---- type:NormalExercise lang:r xp:100 skills:1 key:8f2d2243ae
-## Exercise 6 
+*** =video_hls
+//videos.datacamp.com/transcoded/000_placeholders/v1/hls-temp.master.m3u8
+
+--- type:NormalExercise lang:r xp:100 skills:1 key:e6db2cd2ae
+## Exercise 6
+
 Content
 
 *** =instructions
@@ -116,8 +130,9 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:b057bce68d
-## Exercise 7 
+--- type:NormalExercise lang:r xp:100 skills:1 key:b6815466c2
+## Exercise 7
+
 Content
 
 *** =instructions
@@ -144,8 +159,9 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:2435d7420c
-## Exercise 8 
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:53b2e5255d
+## Exercise 8
+
 Content
 
 *** =instructions
@@ -162,14 +178,20 @@ Content
 
 ```
 
---- type:VideoExercise lang:r xp:50 skills:1 key:9c468b7ee3
-## Exercise 9 
+--- type:VideoExercise lang:r xp:50 skills:1 key:07be8b5f37
+## Exercise 9
+
 Content
 
 *** =video_link
+//player.vimeo.com/video/154783078
 
---- type:NormalExercise lang:r xp:100 skills:1 key:73ef3a0d94
-## Exercise 10 
+*** =video_hls
+//videos.datacamp.com/transcoded/000_placeholders/v1/hls-temp.master.m3u8
+
+--- type:NormalExercise lang:r xp:100 skills:1 key:90067cbc18
+## Exercise 10
+
 Content
 
 *** =instructions
@@ -196,8 +218,9 @@ Content
 
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:186cb167d4
-## Exercise 11 
+--- type:NormalExercise lang:r xp:100 skills:1 key:f91f2c9512
+## Exercise 11
+
 Content
 
 *** =instructions
@@ -224,8 +247,9 @@ Content
 
 ```
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:32ebedc740
-## Really last exercise 
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:2d32b64d85
+## Really last exercise
+
 Content
 
 *** =instructions

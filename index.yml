@@ -3,7 +3,7 @@ course_description: Testing description 6
 programming_language: r
 chapters:
   - chapter_title: Chapter 1
-    chapter_description: 'This is a template chapter: testing this'
+    chapter_description: 'This is a template chapter: testing this '
     exercises:
       - type: VideoExercise
         title: Exercise 1
